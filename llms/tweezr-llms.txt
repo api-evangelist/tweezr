@@ -1,0 +1,28 @@
+# Tweezr
+
+> Tweezr is a system-intelligence platform for safe legacy change. It maps mainframe and heritage financial systems (COBOL, PL/I, CICS, IMS, DB2 z/OS, VSAM, IBM i RPG, Adabas/Natural) into a deterministic, queryable, cited model so engineering teams and AI tools know exactly what a legacy core does before changing it. Deployed on-premise by default for banks and insurers; no public API or developer program is published as of July 2026.
+
+Tweezr is a Techstars portfolio company, a member of the Banking Industry Architecture Network (BIAN), and a partner of 10x Banking. The product is distributed through AWS Marketplace and Microsoft AppSource.
+
+## Company
+
+- [Website](https://www.tweezr.io/): System Intelligence for Safe Legacy Change
+- [Solution](https://www.tweezr.io/solution): Map, Understand, Answer — the platform's three integrated functions
+- [About](https://www.tweezr.io/about): Founders Ohad Kotler (CEO) and Ohad Zadok (CTO)
+- [Blog](https://www.tweezr.io/blog): Company blog
+- [Contact](https://www.tweezr.io/contact): Contact form
+
+## Marketplaces
+
+- [AWS Marketplace](https://aws.amazon.com/marketplace/procurement?productId=prod-zkxhsqyxezl2c&sellerId=seller-t46r5hxjmitqa): Buy with AWS listing
+- [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=Tweezr): AppSource listing
+
+## Policies
+
+- [Terms of Use](https://www.tweezr.io/terms-of-use)
+- [Privacy Policy](https://www.tweezr.io/privacy-policy)
+- [Cookie Policy](https://www.tweezr.io/cookie-policy)
+
+## API Evangelist Profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/tweezr/refs/heads/main/apis.yml): Machine-readable profile of Tweezr in the API Evangelist network

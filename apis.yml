@@ -1,8 +1,28 @@
 aid: tweezr
 name: Tweezr
-description: Tweezr is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Tweezr is a system-intelligence platform for safe legacy change, helping
+  banks and insurers understand and incrementally evolve legacy core systems without
+  risky big-bang modernization. The platform maps mainframe and heritage codebases
+  (COBOL, PL/I, CICS, IMS, DB2 z/OS, VSAM, IBM i RPG, Adabas/Natural) into a deterministic,
+  queryable, cited model that grounds engineering teams and AI tools in what the
+  code actually does before anything is changed. Tweezr deploys on-premise by default,
+  is a member of the Banking Industry Architecture Network (BIAN), partners with
+  10x Banking, is distributed through AWS Marketplace and Microsoft AppSource, and
+  is a Techstars portfolio company. Tweezr publishes no public API or developer program
+  as of July 2026.
 url: https://raw.githubusercontent.com/api-evangelist/tweezr/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.tweezr.io/assets/tweezr-logo-light.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Legacy Modernization
+- Mainframe
+- Banking
+- Financial Services
+- System Intelligence
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +48,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://tweezr.io/
+  url: https://www.tweezr.io/
+- type: About
+  url: https://www.tweezr.io/about
+- type: Blog
+  url: https://www.tweezr.io/blog
+- type: Contact
+  url: https://www.tweezr.io/contact
+- type: TermsOfService
+  url: https://www.tweezr.io/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.tweezr.io/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/tweezr/
+- type: DomainSecurity
+  url: security/tweezr-domain-security.yml
+- type: LLMsTxt
+  url: llms/tweezr-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
