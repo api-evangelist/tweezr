@@ -11,6 +11,9 @@ description: Tweezr is a system-intelligence platform for safe legacy change, he
   is a Techstars portfolio company. Tweezr publishes no public API or developer program
   as of July 2026.
 url: https://raw.githubusercontent.com/api-evangelist/tweezr/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Tweezr publishes no public API or developer program as of July 2026."
 deliveryModel:
   model: saas
   open_source: false
