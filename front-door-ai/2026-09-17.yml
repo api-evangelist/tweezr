@@ -1,0 +1,32 @@
+# Front Door AI Index — tweezr — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: tweezr
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.tweezr.io
+  final_host: www.tweezr.io
+  ownership: own
+  owner: tweezr
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 23
+  host_score: 23
+  density: 17.83
+  words: 1290
+  tiers:
+    agentic: 8
+    core: 12
+    model: 3
+  ambiguous: 14
+  top_terms:
+    AI: 12
+    agent: 8
+    intelligence: 6
+    copilot: 4
+    Claude: 3
+    AI agent: 2
+    MCP: 1
+    agentic: 1
