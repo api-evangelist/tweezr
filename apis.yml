@@ -51,7 +51,7 @@ tags:
 - Legacy Modernization
 - Mainframe
 - Banking
-- Financial-Services
+- Financial Services
 - System Intelligence
 - Artificial Intelligence
 tags_raw:
@@ -62,6 +62,7 @@ tags_raw:
 - Financial Services
 - System Intelligence
 - Artificial Intelligence
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
